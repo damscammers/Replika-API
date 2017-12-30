@@ -1,0 +1,11 @@
+POST https://robot-status.replika.ai/api/highload/0.1/actions/check_usage_allowed HTTP/1.1
+Host: robot-status.replika.ai
+Content-Type: application/json
+Connection: keep-alive
+Accept: application/json
+User-Agent: Replika/2.0.2 (iPhone; iOS 11.2.1; Scale/2.00)
+Accept-Language: en-US;q=1
+Accept-Encoding: br, gzip, deflate
+Content-Length: 38
+
+{"user_id":"584c156282f637eb64d7c197"}
