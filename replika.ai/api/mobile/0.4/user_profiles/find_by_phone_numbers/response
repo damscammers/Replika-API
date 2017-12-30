@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Sat, 30 Dec 2017 19:56:26 GMT
+Content-Type: application/json
+Content-Length: 768
+Connection: keep-alive
+
+[{"id":"581ca85c55763cd4b4a006e4","first_name":"alien anna","last_name":" ","phone_number":"12108458109","last_updated":"2017-06-22T20:49:04.379Z","available_invites":0,"presence":{"is_online":false,"last_went_offline_timestamp":"2017-06-22T20:51:11.816Z"}},{"id":"598b63d39b365e8756ea9ad7","first_name":"Adam","last_name":"TV","phone_number":"19192716626","last_updated":"2017-08-09T19:35:35.947Z","available_invites":0,"presence":{"is_online":false,"last_went_offline_timestamp":"2017-08-09T19:35:46.099Z"}},{"id":"584c156282f637eb64d7c197","first_name":"Zachary","last_name":"Johnson","phone_number":"9194101240","last_updated":"2017-10-20T22:03:13.900Z","available_invites":0,"presence":{"is_online":true,"last_went_offline_timestamp":"2017-12-30T19:56:17.571Z"}}]
