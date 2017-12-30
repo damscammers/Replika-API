@@ -1,0 +1,9 @@
+POST https://api.amplitude.com/ HTTP/1.1
+Host: api.amplitude.com
+Content-Type: application/x-www-form-urlencoded
+Connection: keep-alive
+Accept: */*
+User-Agent: Replika/149 CFNetwork/893.14.2 Darwin/17.3.0
+Content-Length: 1091
+Accept-Language: en-us
+Accept-Encoding: br, gzip, deflate
