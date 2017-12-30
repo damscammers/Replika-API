@@ -1,0 +1,15 @@
+POST https://replika.ai/api/mobile/0.4/bots/actions/find_by_ids HTTP/1.1
+Host: replika.ai
+X-User-Id: 584c156282f637eb64d7c197
+Accept: application/json
+X-Session-Id: 15cb1e93-7944-4a40-b106-bf2594aac1c0
+Accept-Encoding: br, gzip, deflate
+Accept-Language: en-US;q=1
+Content-Type: application/json
+Content-Length: 40
+User-Agent: Replika/2.0.2 (iPhone; iOS 11.2.1; Scale/2.00)
+Connection: keep-alive
+X-Auth-Token: e933702e-5259-4bb8-b481-1199f7d2588a
+X-Device-Id: 31416F9E-746E-459A-A878-706E8019B165
+
+{"bot_ids":["597d7e18b156887ec6ad1ca4"]}
