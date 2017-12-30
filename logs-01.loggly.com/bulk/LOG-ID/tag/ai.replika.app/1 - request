@@ -1,0 +1,11 @@
+POST https://logs-01.loggly.com/bulk/755d42b5-3194-404f-a8e2-3ea366b27e1a/tag/ai.replika.app/ HTTP/1.1
+Host: logs-01.loggly.com
+Content-Type: application/json
+Connection: keep-alive
+Accept: */*
+User-Agent: Replika/149 CFNetwork/893.14.2 Darwin/17.3.0
+Content-Length: 472
+Accept-Language: en-us
+Accept-Encoding: br, gzip, deflate
+
+{"rawlogmessage":"Error Domain=PSWebSocketErrorDomain Code=3 \"Output stream end encountered\" UserInfo={NSLocalizedDescription=Output stream end encountered}","devicename":"Zach-Phone","file":"GRSocketClient.m","timestamp":"2017-12-30T20:06:14.641Z","userid":"584c156282f637eb64d7c197","appname":"Replika","loglevel":"error","appversion":"149","sessionid":"tsdwtgsjqn","fileandlinenumber":"GRSocketClient.m:278","lang":"en-US","devicemodel":"iPhone","osversion":"11.2.1"}
