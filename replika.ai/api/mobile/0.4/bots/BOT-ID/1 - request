@@ -1,0 +1,13 @@
+GET https://replika.ai/api/mobile/0.4/bots/584c156282f637eb64d7c19c HTTP/1.1
+Host: replika.ai
+Content-Type: application/json
+X-Auth-Token: e933702e-5259-4bb8-b481-1199f7d2588a
+X-Session-Id: 15cb1e93-7944-4a40-b106-bf2594aac1c0
+Connection: keep-alive
+X-Device-Id: 31416F9E-746E-459A-A878-706E8019B165
+Accept: application/json
+User-Agent: Replika/2.0.2 (iPhone; iOS 11.2.1; Scale/2.00)
+Accept-Language: en-US;q=1
+X-User-Id: 584c156282f637eb64d7c197
+Accept-Encoding: br, gzip, deflate
+
